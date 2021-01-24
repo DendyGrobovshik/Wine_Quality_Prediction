@@ -12,8 +12,8 @@ Before applying the classification algorithms, the data was preprocessed in diff
 In order to find the best hyperparameters for each classification algorithm, a grid search with 5-fold cross validation was applied.
 Models were trained on both oversampled and non-oversampled training sets. Results were evaluated in terms of accuracy and F1-score.
 The proposed methods were:
-• Logistic Regression; <br>
-• K-Nearest Neighbors; <br>
-• Support Vector Machines; <br>
-• Decision Trees; <br>
-• Random Forests. <br>
+•. Logistic Regression; <br>
+•. K-Nearest Neighbors; <br>
+•. Support Vector Machines; <br>
+•. Decision Trees; <br>
+•. Random Forests. <br>

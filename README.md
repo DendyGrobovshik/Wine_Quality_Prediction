@@ -1,5 +1,5 @@
 # Wine_Quality_Prediction
-thesis for Mathematics in Machine Learning course at @Politecnico di Torino. <br>
+Thesis for Mathematics in Machine Learning course at @Politecnico di Torino. <br>
 The work aims to apply the theoretical knowledge acqired during the course on a real case. The analysis and the experiments are performed on UCI Machine Learning Wine Quality Data Set, that can be found at: https://archive.ics.uci.edu/ml/datasets/Wine+Quality . The dataset contains red and white variants of the ”Vinho Verde” wine. The data were collected from May/2004 to February/2007. <br>
 ## Main goals
 

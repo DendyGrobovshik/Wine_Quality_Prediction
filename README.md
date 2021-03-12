@@ -16,7 +16,7 @@ The proposed methods were:
 2. Support Vector Machines. <br>
 <br>
 Subsequently, regression was performed to predict wines' quality over all possible output values.<br>
-Before applying the regression models, outliers were found and dropped in order to achieve a better result.
+Before applying the regression models, outliers were found and dropped in order to achieve a better result.<br>
 The proposed methods were:
 1. Linear Regression; <br>
 2. Polynomial Regression; <br>

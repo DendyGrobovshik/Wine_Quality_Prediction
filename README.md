@@ -17,7 +17,7 @@ The proposed methods were:
 <br>
 Subsequently, regression was performed to predict wines' quality over all possible output values.<br>
 Before applying the regression models, outliers were found and dropped in order to achieve a better result.<br>
-The proposed methods were:
+The proposed methods were: <br>
 1. Linear Regression; <br>
 2. Polynomial Regression; <br>
 3. Ridge Regression; <br>

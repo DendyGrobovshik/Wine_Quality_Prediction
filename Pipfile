@@ -12,6 +12,7 @@ imbalanced-learn = "*"
 pydotplus = "*"
 six = "*"
 pydot = "*"
+pyyaml = "*"
 
 [dev-packages]
 

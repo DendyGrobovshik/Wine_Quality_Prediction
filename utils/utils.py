@@ -3,7 +3,12 @@ import pandas as pd
 import numpy as np
 import seaborn as sns
 from numpy.random import randint
+import yaml
 from typing import List, Tuple, Any, Union
+
+def read_yaml(file_path: str):
+    with open(file_path, "r") as f:
+        return yaml.safe_load(f)
 
 # Functions for analysing dataset
 def print_correlation_matrix(correlation: pd.DataFrame, title: str):

@@ -143,4 +143,5 @@ def decision_boundaries(X_test: pd.DataFrame, y_test: pd.DataFrame, str: str, cl
   axes.set_ylim(yy.min(), yy.max())
   axes.set_xlabel('PC1')
   axes.set_ylabel('PC2')
-  axes.set_title(str) 
+  axes.set_title(str)
+  
